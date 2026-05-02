@@ -1,0 +1,11 @@
+## ryzha — nano theme
+## orange + peppermint dark theme
+
+set titlecolor      brightwhite,black
+set statuscolor     black,brightyellow
+set keycolor        brightyellow,black
+set functioncolor   brightcyan,black
+set numbercolor     brightyellow,black
+set errorcolor      brightred,black
+set selectedcolor   black,brightyellow
+set stripecolor     brightblack,black

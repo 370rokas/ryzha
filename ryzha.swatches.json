@@ -1,0 +1,22 @@
+[{
+  "paletteName": "Ryzha",
+  "swatches": [
+    { "name": "Background", "color": "101010" },
+    { "name": "Background Raised 1", "color": "161616" },
+    { "name": "Background Raised 2", "color": "1C1C1C" },
+    { "name": "Surface Select", "color": "232323" },
+    { "name": "Surface Hover", "color": "282828" },
+    { "name": "Border Muted", "color": "343434" },
+    { "name": "Text Primary", "color": "FFFFFF" },
+    { "name": "Text Secondary", "color": "A0A0A0" },
+    { "name": "Text Muted", "color": "707070" },
+    { "name": "Text Muted 2", "color": "7E7E7E" },
+    { "name": "Line Number", "color": "505050" },
+    { "name": "On Accent", "color": "000000" },
+    { "name": "Gold", "color": "FFC799" },
+    { "name": "Gold Hover", "color": "FFCFA8" },
+    { "name": "Mint", "color": "99FFE4" },
+    { "name": "Error", "color": "FF8080" },
+    { "name": "Debug", "color": "FF7300" }
+  ]
+}]

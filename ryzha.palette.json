@@ -1,0 +1,37 @@
+{
+  "name": "Vesper",
+  "base": {
+    "bg": "#101010",
+    "bg_raised_1": "#161616",
+    "bg_raised_2": "#1C1C1C",
+    "surface_select": "#232323",
+    "surface_hover": "#282828",
+    "border_muted": "#343434"
+  },
+  "text": {
+    "primary": "#FFFFFF",
+    "secondary": "#A0A0A0",
+    "muted": "#707070",
+    "muted2": "#7E7E7E",
+    "lineNumber": "#505050",
+    "onAccent": "#000000"
+  },
+  "accents": {
+    "gold": "#FFC799",
+    "gold_hover": "#FFCFA8",
+    "mint": "#99FFE4",
+    "error": "#FF8080",
+    "debug": "#FF7300"
+  },
+  "alpha": {
+    "selection": "#FFFFFF25",
+    "comment": "#8B8B8B94",
+    "scrollbar": "#34343480",
+    "diff_insert_bg": "#99FFE415",
+    "diff_remove_bg": "#FF808015",
+    "markdown_fence": "#00000050"
+  },
+  "extra": {
+    "markdown_separator": "#65737E"
+  }
+}

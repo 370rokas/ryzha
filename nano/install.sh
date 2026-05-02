@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 THEME_FILE="$(dirname "$0")/ryzha.nanorc"
-NANORC="$HOME/.nanorc"
+NANORC="$HOME/.config/nano/nanorc"
 START="# ryzha:start"
 END="# ryzha:end"
 

@@ -1,0 +1,48 @@
+window {
+    /* base.bg_raised_2 (#1C1C1C) with ~0.95 alpha */
+    background-color: rgba(28, 28, 28, 0.95);
+    /* text.primary */
+    color: #FFFFFF;
+}
+
+/* search entry */
+entry {
+    /* base.surface_hover (#282828) with some transparency */
+    background-color: rgba(40, 40, 40, 0.80);
+}
+
+/* icons/buttons */
+button, image {
+    background: none;
+    border: none;
+}
+
+button:hover {
+    /* alpha.selection (#FFFFFF25) */
+    background-color: rgba(255, 255, 255, 0.145);
+}
+
+/* in case you wanted to give category buttons a different look */
+#category-button {
+    margin: 0 10px 0 10px;
+}
+
+#pinned-box {
+    padding-bottom: 5px;
+    /* base.border_muted (#343434) */
+    border-bottom: 1px dotted #343434;
+}
+
+#files-box {
+    padding: 5px;
+    border: 1px dotted #343434;  /* base.border_muted */
+    border-radius: 15px;
+}
+
+/* math operation result label */
+#math-label {
+    font-weight: bold;
+    font-size: 16px;
+    /* accents.gold */
+    color: #FFC799;
+}

@@ -28,8 +28,9 @@ Orange and peppermint flavored dark theme.
    ```
 
 ## Supported Applications
-- [Ghostty](./ryzha/ghostty)
-- [nano](./ryzha/nano)
+- [Ghostty](./ghostty/)
+- [nano](./nano/)
+- [nwg-drawer](./nwg-drawer/)
 
 ## License
 
